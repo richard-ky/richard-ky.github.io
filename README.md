@@ -12,3 +12,4 @@ I am a second-year computer science student who is expecting to obtain my bachel
 - Reverberation simulator
 ```
 
+![Deep space](/deepspace-scaled.jpg.webp)
